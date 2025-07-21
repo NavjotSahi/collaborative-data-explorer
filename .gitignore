@@ -6,6 +6,7 @@
 .env
 .env.*
 !/.env.example
+venv/
 
 # =========================================================================
 # Python / FastAPI Backend ignores
