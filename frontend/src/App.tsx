@@ -13,7 +13,7 @@ function App() {
         formData.append('file', file);
 
         try {
-            const response = await fetch("http://localhost:8000/api/upload-csv/", {
+            const response = await fetch("https://collaborative-data-explorer.onrender.com/api/upload-csv/", {
                 method: 'POST',
                 body: formData,
             });

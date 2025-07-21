@@ -8,7 +8,7 @@ app = FastAPI()
 # Configure CORS
 origins = [
     "http://localhost:3000",  # The default address for React's dev server
-    # You will add your deployed frontend URL here later
+    "https://collaborative-data-explorer-frontend.onrender.com/"# You will add your deployed frontend URL here later
 ]
 
 app.add_middleware(
