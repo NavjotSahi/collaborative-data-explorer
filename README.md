@@ -1,7 +1,5 @@
 # Collaborative Data Explorer for Remote Teams
 
-![Project Banner](https://your-image-url-here.com/banner.png) <!-- Optional: Create a nice banner image for your project -->
-
 A multi-user dashboard application that allows remote teams to upload, explore, and analyze datasets together in real-time. This project features shared data visualizations, collaborative annotations, and AI-powered insights.
 
 **Live Demo:** [Link to your deployed Render app]
